@@ -1,0 +1,88 @@
+/* latin */
+@font-face {
+    font-family: 'GreatVibes';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Great Vibes'), local('GreatVibes-Regular'), url(../fonts/GreatVibes-Regular.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* latin */
+@font-face {
+    font-family: 'Lora-Regular';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lora Regular'), local('Lora-Regular'), url(../fonts/Lora-Regular.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* latin */
+@font-face {
+    font-family: 'Lora-Bold';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Lora Bold'), local('Lora-Bold'), url(../fonts/Lora-Bold.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* latin */
+@font-face {
+    font-family: 'Lora-Italic';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Lora Italic'), local('Lora-Italic'), url(../fonts/Lora-Italic.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* latin */
+@font-face {
+    font-family: 'Lora-BoldItalic';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Lora Bold Italic'), local('Lora-BoldItalic'), url(../fonts/Lora-BoldItalic.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/*** AUDREY ***/
+/* NORMAL */
+@font-face {
+    font-family: 'Audrey';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Audrey'), url(../fonts/Audrey-Normal.woff) format('woff');
+}
+
+
+@font-face {
+    font-family: 'Audrey Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Audrey Italic'), url(../fonts/Audrey-NormalOblique.woff) format('woff');
+}
+
+
+@font-face {
+    font-family: 'Audrey Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Audrey Medium'), url(../fonts/Audrey-Medium.woff) format('woff');
+}
+
+
+@font-face {
+    font-family: 'Audrey Medium Oblique';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Audrey Medium Oblique'), url(../fonts/Audrey-MediumOblique.woff) format('woff');
+}
+
+
+@font-face {
+    font-family: 'Audrey Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Audrey Bold'), url(../fonts/Audrey-Bold.woff) format('woff');
+}
+
+/* taniaygustavosecasan@gmail.com  */
+@font-face {
+    font-family: 'Audrey Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Audrey Bold Italic'), url(../fonts/Audrey-BoldOblique.woff) format('woff');
+}
